@@ -24,6 +24,9 @@ This iOS application displays property listings fetched from a JSON file. Users 
 3. Use the "Previous" button to view the previous listing.
 4. Details of each listing are updated accordingly on the UI.
 
+## Demo
+![Demo](demo.gif)
+
 ## JSON Data Structure
 ```json
 [
